@@ -1,4 +1,4 @@
-# Deposito de diversos apps de código aberto!
+# Depósito de diversos apps de código aberto!
 ### Este repositório foi criado com o objetivo de reunir todos os programas e ferramentas que conheço ao longo deste tempo, além de serem todos de código aberto.
 ## [Zphisher](https://github.com/cloud-xjosematheus/Deposito-de-apps-incrives/releases/download/zphisher/zphisher.zip)
 O Zphisher é uma ferramenta de demonstração que tem como objetivo educar as pessoas sobre como funciona o phishing. É importante lembrar que qualquer atividade relacionada a esta ferramenta é de sua responsabilidade exclusiva e o uso indevido pode resultar em acusações criminais. Por isso, é importante consultar as leis em sua província/país antes de usar ou de qualquer outra forma utilizar esta ferramenta de maneira imprópria.
