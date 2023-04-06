@@ -25,3 +25,5 @@ Além disso, a equipe responsável pelo Upscayl está sempre atenta às necessid
 
 Se você está procurando uma ferramenta para melhorar a qualidade de suas imagens, o Upscayl pode ser uma excelente opção. Baixe agora mesmo e comece a experimentar todas as suas funcionalidades!
 - [Ir para o repositorio oficial do Upscayl no GitHub](https://github.com/upscayl/upscayl)
+## Rufus
+- [Windows versão de instalação](
