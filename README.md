@@ -26,4 +26,21 @@ Além disso, a equipe responsável pelo Upscayl está sempre atenta às necessid
 Se você está procurando uma ferramenta para melhorar a qualidade de suas imagens, o Upscayl pode ser uma excelente opção. Baixe agora mesmo e comece a experimentar todas as suas funcionalidades!
 - [Ir para o repositorio oficial do Upscayl no GitHub](https://github.com/upscayl/upscayl)
 ## Rufus
-- [Windows versão de instalação](
+- [Windows versão de instalação](https://github.com/Memorise-codigos/Deposito-de-apps-incrives/releases/download/Rufus/rufus-3.22.exe)
+- [Windows versão portatil](https://github.com/Memorise-codigos/Deposito-de-apps-incrives/releases/download/Rufus/rufus-3.22.Portable.exe)
+- [Windows ARM64](https://github.com/Memorise-codigos/Deposito-de-apps-incrives/releases/download/Rufus/rufus-3.22_arm64.exe)
+- [Windows ARM](https://github.com/Memorise-codigos/Deposito-de-apps-incrives/releases/download/Rufus/rufus-3.22_arm.exe)
+
+Rufus é um software especializado na criação de pendrives bootáveis para instalação de sistemas operacionais em computadores. Com uma interface intuitiva e fácil de usar, Rufus permite que os usuários criem pendrives de boot com apenas alguns cliques.
+
+Ao abrir o programa, o usuário é guiado através de um assistente passo a passo que o ajuda a selecionar a imagem ISO do sistema operacional que deseja instalar, escolher o dispositivo de destino (o pendrive), selecionar as opções de formatação e iniciar o processo de criação do pendrive bootável.
+
+Rufus suporta uma ampla variedade de sistemas operacionais, incluindo Windows, Linux, macOS e outros, e é compatível com uma variedade de dispositivos de armazenamento USB.
+
+É importante destacar que Rufus é um software de código aberto, o que significa que seu código-fonte está disponível para que os usuários possam estudá-lo, modificá-lo e distribuí-lo livremente. Essa característica do software permite que a comunidade de desenvolvedores e usuários contribua para o seu aprimoramento e evolução contínua, resultando em um software cada vez mais confiável e eficiente. Além disso, ser um software de código aberto também significa que Rufus é totalmente gratuito para uso pessoal e comercial, sem custos ou restrições.
+
+Com Rufus, os usuários podem criar pendrives bootáveis rapidamente e facilmente, economizando tempo e simplificando o processo de instalação do sistema operacional em seus computadores. Se você é um entusiasta de tecnologia ou um profissional de TI, Rufus é uma excelente ferramenta para ter em sua caixa de ferramentas, permitindo que você crie pendrives bootáveis com facilidade e flexibilidade.
+
+Com sua simplicidade, confiabilidade e flexibilidade, Rufus é uma das melhores opções para a criação de pendrives bootáveis para instalação de sistemas operacionais, e sua natureza de código aberto torna-o uma ferramenta poderosa e acessível para usuários de todos os níveis de experiência e necessidades. Tenha em mente que esta ferramenta não tem versões para macOS ou Linux, mas é capaz de criar pendrives bootáveis para praticamente qualquer sistema operacional em um dispositivo USB.
+- [Ir para pagina do repositorio oficial da ferramenta Rufus](https://github.com/pbatard/rufus)
+- [Site oficial da ferramenta Rufus](https://rufus.ie/pt_BR/)
