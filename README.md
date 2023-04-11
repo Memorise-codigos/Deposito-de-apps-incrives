@@ -44,4 +44,4 @@ Com Rufus, os usuários podem criar pendrives bootáveis rapidamente e facilment
 Com sua simplicidade, confiabilidade e flexibilidade, Rufus é uma das melhores opções para a criação de pendrives bootáveis para instalação de sistemas operacionais, e sua natureza de código aberto torna-o uma ferramenta poderosa e acessível para usuários de todos os níveis de experiência e necessidades. Tenha em mente que esta ferramenta não tem versões para macOS ou Linux, mas é capaz de criar pendrives bootáveis para praticamente qualquer sistema operacional em um dispositivo USB.
 - [Ir para pagina do repositorio oficial da ferramenta Rufus](https://github.com/pbatard/rufus)
 - [Site oficial da ferramenta Rufus](https://rufus.ie/pt_BR/)
-## [Upscale](https://github.com/cloud-xjosematheus/upscale)
+## [Upscale](https://github.com/cloud-xjosematheus/upscale.git)
