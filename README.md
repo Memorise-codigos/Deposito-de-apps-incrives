@@ -47,3 +47,6 @@ Com sua simplicidade, confiabilidade e flexibilidade, Rufus é uma das melhores 
 - [Site oficial da ferramenta Rufus](https://rufus.ie/pt_BR/)
 
 ## [Upscale](https://github.com/cloud-xjosematheus/upscale.git)
+
+
+             By Memorise o código
